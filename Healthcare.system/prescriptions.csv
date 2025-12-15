@@ -1,0 +1,13 @@
+PrescriptionID,PatientID,Condition,Drug,DateIssued
+1,1,Hypertension,Lisinopril 10mg,2025-12-11
+2,1,Hypertension,Lisinopril 10mg,2025-12-11
+3,1,Hypertension,Lisinopril 10mg,2025-12-11
+4,1,Hypertension,Lisinopril 10mg,2025-12-11
+5,2,Heart ,cardron,2025-12-11
+6,4534,FDSF,SFDSFS,2025-12-15
+7,1,Hypertension,Lisinopril 10mg,2025-12-15
+8,1,Hypertension,Lisinopril 10mg,2025-12-15
+9,1,Hypertension,Lisinopril 10mg,2025-12-15
+10,1,Hypertension,Lisinopril 10mg,2025-12-15
+11,21,heart ,itoper,2025-12-15
+12,3,HAERT,IOT,2025-12-15

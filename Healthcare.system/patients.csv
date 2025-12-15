@@ -1,0 +1,9 @@
+PatientID,Name,DOB,Address,Phone,Email,NHSNumber,GPSurgeryID,MedicalHistory
+1,,1985-03-20,,,,,,New patient registered | Referred to specialist on 2025-12-15 | Annual checkup
+2,,1985-03-20,,,,,,New patient registered
+3,,1985-03-20,,,,,,New patient registered
+4,,1985-03-20,,,,,,New patient registered
+5,,1985-03-20,,,,,,New patient registered
+6,,2004-02-21,,,,,,New patient registered
+7,,2003-06-03,,,,,,New patient registered
+8,,2003-07-12,,,,,,New patient registered
